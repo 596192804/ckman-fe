@@ -2,7 +2,7 @@
   <main class="login">
     <section class="container flex-center flex-column">
       <section>
-        <h1 class="fs-24">Click House</h1>
+        <h1 class="fs-24">Aspire ClickHouse</h1>
         <h3 class="fs-20">Management Console</h3>
         <el-form :model="info"
                  status-icon
@@ -32,7 +32,6 @@
                      class="width-full">Login</el-button>
         </el-form>
       </section>
-      <p style="position: absolute; bottom: -50px">Copyright © 2016-2020 上海擎创信息技术有限公司</p>
     </section>
   </main>
 </template>

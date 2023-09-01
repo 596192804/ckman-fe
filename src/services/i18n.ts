@@ -68,7 +68,7 @@ const messages = {
       'Force Delete': 'Force Delete',
     },
     layout: {
-      'ClickHouse Management Console': 'ClickHouse Management Console',
+      'ClickHouse Management Console': 'Aspire ClickHouse Management Console',
       'Settings': 'Settings',
       'Logout Success': 'Logout Success',
       'Message Center': 'Message Center',
@@ -335,7 +335,7 @@ const messages = {
       'Force Delete': '强制删除',
     },
     layout: {
-      'ClickHouse Management Console': 'clickhouse管理平台',
+      'ClickHouse Management Console': '卓望clickhouse管理平台',
       'Settings': '设置',
       'Logout Success': '成功登出',
       'Message Center': '消息中心',

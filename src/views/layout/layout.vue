@@ -1,7 +1,7 @@
 <template>
   <div class="layout flex flex-column overflow-hidden">
     <header class="flex-between flex-vcenter plr-20">
-      <router-link to="/" class="fs-18 font-bold">{{title}}  {{version}}</router-link>
+      <router-link to="/" class="fs-18 font-bold">{{title}}</router-link>
       <div class="header-right flex flex-vcenter">
 
         <div class="flex flex-vcenter mr-15 pointer" @click="viewTaskList">

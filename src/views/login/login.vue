@@ -2,8 +2,7 @@
   <main class="login">
     <section class="container flex-center flex-column">
       <section>
-        <h1 class="fs-24">Aspire ClickHouse</h1>
-        <h3 class="fs-20">Management Console</h3>
+        <h1 class="fs-24">卓望ClickHouse管理平台</h1>
         <el-form :model="info"
                  status-icon
                  :rules="rules"

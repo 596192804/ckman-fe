@@ -10,13 +10,6 @@
           <el-badge is-dot></el-badge>
         </div>
 
-        <a href="/docs/ckman" target="_blank" class="flex flex-vcenter mr-15 pointer">
-          <i class="fa fa-book fs-20 mr-5" aria-hidden="true"></i>
-          <span class="fs-16">{{$t('layout.Document')}}</span>
-        </a>
-
-        <router-link to="/swagger/index.html" target="_blank" class="fa fa-file-text-o fs-20 mr-15"><span class="fs-16 ml-5">{{$t('layout.API')}}</span></router-link>
-
         <el-dropdown class="pointer">
           <div class="flex flex-vcenter">
             <i class="fa fa-user-o fs-20"></i>
